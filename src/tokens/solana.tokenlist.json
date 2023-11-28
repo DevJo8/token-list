@@ -34523,6 +34523,20 @@
       "tags": [
         "social-token"
       ]
+    },
+    {
+      "chainId": 101,
+      "address":"4iuvXtkiWYPaHqR5hVUTz8UL52UYCSmiCr9paJrwgeti",
+      "symbol": "PelerAlif",
+      "name": "aaalif",
+      "decimals": 6,
+      "logoURI": "ahayy",
+      "tags": [
+          "degen-token"
+      ],
+      "extensions": {
+          "website": "alifbokep.com"
+      }
     }
   ],
   "version": {
